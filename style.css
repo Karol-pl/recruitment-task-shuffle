@@ -68,7 +68,7 @@ h1 > span {
   padding-left: 20px;
 }
 
-.circle1 {
+.cta::after {
   width: 500px;
   height: 450px;
   border-radius: 100% 0 0 0;
@@ -147,7 +147,7 @@ h1 > span {
   line-height: 1.2rem;
 }
 
-.circle2 {
+.circle1 {
   width: 150px;
   height: 150px;
   border-radius: 100% 0 0 0;
@@ -162,7 +162,7 @@ h1 > span {
   transform: rotate(-100deg);
 }
 
-.circle3 {
+.circle2 {
   width: 500px;
   height: 450px;
   border-radius: 100% 0 0 0;
